@@ -3,9 +3,6 @@
   <img src="github-header-image.png" alt="Banner" />
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Aadarsh Chandra</h1>
-<p align="center">A passionate frontend developer from India 🇮🇳</p>
 
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
