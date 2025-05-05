@@ -12,6 +12,55 @@
   </picture>
 </p>
 
+<!-- About Me Section -->
+<h2 align="left">👨‍💻 About Me</h2>
+<p align="left">
+I just enjoy learning—whether it's programming, physics, math, or something totally new.
+</p>
+
+<!-- Current Status -->
+<h2 align="left">🌟 Current Status</h2>
+<p align="left">
+  - 📚 Learning: Machine Learning<br>
+  - 📝 Latest Blog: <a href="https://physicsforkidss.blogspot.com/2024/10/general-relativity-for-kids-to.html" target="_blank">General Relativity for Kids</a><br>
+</p>
+
+<!-- Featured Projects -->
+<h2 align="left">📌 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/ShahbazCoder1/nearbymedi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahbazCoder1&repo=nearbymedi&theme=dark" width="400"/>
+  </a>
+</div>
+
+<!-- Looking For Section -->
+<h2 align="left">👀 I'm interested in</h2>
+<p align="left">
+  - 🤝 Collaborations<br>
+  - 📊 Any Opportunities<br>
+  - 🎯 Open Source Contributions
+</p>
+
+<!-- Goals Section -->
+<h2 align="left">🎯 2025 Goals</h2>
+<p align="left">
+  - Master Machine Learning Fundamentals<br>
+  - Contribute to Open Source Projects<br>
+  - Write More Educational Content
+</p>
+
+
+<!-- Favorite Quote -->
+<h2 align="left">💭 Favorite Quote</h2>
+<p align="left">
+  <i>"The more I learn, the more I realize how much I don't know."</i> - Albert Einstein
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pie-314&theme=react-dark" alt="Contribution Graph" />
+</p>
+
 <!-- Languages and Tools with improved styling -->
 <h2 align="left">🚀 Languages and Tools</h2>
 <div align="center">
@@ -24,6 +73,9 @@
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
     </a>
   </p>
 
@@ -44,6 +96,14 @@
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    </a>
+  </p>
+
+  <!-- Cloud & Services -->
+  <h3>Cloud & Services</h3>
+  <p>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
     </a>
   </p>
 
@@ -73,9 +133,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
   </p>
 </div>
 
@@ -84,5 +141,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/aadarsh-chandra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://discord.com/users/mr.pi8219" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
+  <a href="https://instagram.com/aadarsh.json" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
