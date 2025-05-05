@@ -49,7 +49,6 @@ I just enjoy learning—whether it's programming, physics, math, or something to
   - Write More Educational Content
 </p>
 
-
 <!-- Favorite Quote -->
 <h2 align="left">💭 Favorite Quote</h2>
 <p align="left">
@@ -138,7 +137,6 @@ I just enjoy learning—whether it's programming, physics, math, or something to
     </a>
   </p>
 
-
 <!-- Connect with me section -->
 <h2 align="left">⚡️ Connect with me</h2>
 <p align="center">
@@ -150,5 +148,8 @@ I just enjoy learning—whether it's programming, physics, math, or something to
   </a>
   <a href="https://instagram.com/aadarsh.json" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="https://www.kaggle.com/aadarshchandra1" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
 </p>
