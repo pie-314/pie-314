@@ -46,7 +46,7 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 <p align="left">
 <!--  - Master Machine Learning Fundamentals<br>-->
   - Contribute to Open Source Projects<br>
-  - Write More Educational Content
+  - Write More Educational Content<br>
   - Master Rust
 </p>
 
