@@ -44,9 +44,10 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 <!-- Goals Section -->
 <h2 align="left">🎯 2025 Goals</h2>
 <p align="left">
-  - Master Machine Learning Fundamentals<br>
+<!--  - Master Machine Learning Fundamentals<br>-->
   - Contribute to Open Source Projects<br>
   - Write More Educational Content
+  - Master Rust
 </p>
 
 <!-- Favorite Quote -->
