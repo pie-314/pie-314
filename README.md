@@ -154,7 +154,7 @@ I just enjoy learning—whether it's programming, physics, math, or something to
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
   <a href="https://x.com/pie314n" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
 </a>
 
 </p>
