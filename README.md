@@ -21,7 +21,7 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 <!-- Current Status -->
 <h2 align="left">🌟 Current Status</h2>
 <p align="left">
-  - 📚 Learning: Machine Learning<br>
+  - 📚 Learning: Rust<br>
   - 📝 Latest Blog: <a href="https://physicsforkidss.blogspot.com/2024/10/general-relativity-for-kids-to.html" target="_blank">General Relativity for Kids</a><br>
 </p>
 
