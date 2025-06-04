@@ -157,4 +157,4 @@ I just enjoy learning—whether it's programming, physics, math, or something to
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
 </a>
 
-</p>
+</p> 
