@@ -30,6 +30,8 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 <div align="center">
   <a href="https://github.com/ShahbazCoder1/nearbymedi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahbazCoder1&repo=nearbymedi&theme=dark" width="400"/>
+  </a>
+  <a href= "https://github.com/AyushiGtl/WayFlo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiGtl&repo=WayFlo&theme=dark" width="400"/>
   </a>
 </div>
