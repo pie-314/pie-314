@@ -26,16 +26,16 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 </p>
 
 <!-- Featured Projects -->
-<h2 align="left">📌 Featured Projects</h2>
+## 📌 Featured Projects
+
 <div align="center">
   <a href="https://github.com/ShahbazCoder1/nearbymedi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahbazCoder1&repo=nearbymedi&theme=dark" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahbazCoder1&repo=nearbymedi&theme=dark" width="400" alt="NearbyMedi Project Pin"/>
   </a>
-  <a href= "https://github.com/AyushiGtl/WayFlo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiGtl&repo=WayFlo&theme=dark" width="400"/>
+  <a href="https://github.com/AyushiGtl/WayFlo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiGtl&repo=WayFlo&theme=dark" width="400" alt="WayFlo Project Pin"/>
   </a>
 </div>
-
 <!-- Looking For Section -->
 <h2 align="left">👀 I'm interested in</h2>
 <p align="left">
