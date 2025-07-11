@@ -35,6 +35,10 @@ I just enjoy learning—whether it's programming, physics, math, or something to
   <a href="https://github.com/AyushiGtl/WayFlo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiGtl&repo=WayFlo&theme=dark" width="400" alt="WayFlo Project Pin"/>
   </a>
+  <a href="https://github.com/pie-314/aptos-hackathon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pie-314&repo=aptos-hackathon&theme=dark" width="400" alt="Aptos Hackathon Project Pin"/>
+  </a>
+
 </div>
 <!-- Looking For Section -->
 <h2 align="left">👀 I'm interested in</h2>
