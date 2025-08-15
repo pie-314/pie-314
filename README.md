@@ -84,6 +84,14 @@ I just enjoy learning—whether it's programming, physics, math, or something to
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
     </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-line.svg"
+       alt="rust"
+       width="40"
+       height="40"
+       style="background-color:#fff; border:1px solid #ccc; border-radius:8px; padding:4px;" />
+    </a>
+
   </p>
 
   <!-- Frameworks and Libraries -->
