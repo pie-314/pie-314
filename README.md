@@ -21,7 +21,7 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 <!-- Current Status -->
 <h2 align="left">🌟 Current Status</h2>
 <p align="left">
-  - 📚 Learning: Rust<br>
+  - 📚 Learning: C<br>
   - 📝 Latest Blog: <a href="https://physicsforkidss.blogspot.com/2024/10/general-relativity-for-kids-to.html" target="_blank">General Relativity for Kids</a><br>
 </p>
 
@@ -51,12 +51,12 @@ I just enjoy learning—whether it's programming, physics, math, or something to
 </p>
 
 <!-- Goals Section -->
-<h2 align="left">🎯 2025 Goals</h2>
+<h2 align="left">🎯 2026 Goals</h2>
 <p align="left">
 <!--  - Master Machine Learning Fundamentals<br>-->
   - Contribute to Open Source Projects<br>
   - Write More Educational Content<br>
-  - Master Rust
+  - Master C
 </p>
 
 <!-- Favorite Quote -->
