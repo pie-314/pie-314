@@ -1,180 +1,144 @@
-<!-- Banner image -->
+
+<div id="top"></div>
+
 <p align="center">
-  <img src="github-header-image.png" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A84FF&height=220&section=header&text=Aadarsh%20Chandra%20(Pi)&fontSize=46&fontColor=FFFFFF&desc=Systems%20Programmer%20•%20Builder%20•%20First%20Principles&descSize=18&descAlignY=62"/>
 </p>
 
-<!-- GitHub Contribution Snake Animation -->
+<br />
+
+
+## 👤 whoami
+
+```console
+pi@dev-machine:~$ neofetch --minimal
+
+```
+pi@dev-machine:~$ neofetch --minimal
+
+       _______      USER   : aadarsh
+      |.-----.|     OS     : Arch Linux / Bare Metal
+      || core||     KERNEL : First-Principles-x86_64
+      ||__***||     UPTIME : 100% (fueled by caffeine)
+      '-------'     ROLE   : I build the core and everything on top of it.
+     /         \    STACK  : C, Rust, Python, x86 ASM
+    />*|*****|*<\   GOAL   : "Don't just use abstractions. Build them."
+
+> Full-stack, from hardware to abstraction.
+<br />
+
+---
+
+## 🏗️ Memory Segment (Projects)
+
+```console
+pi@dev-machine:~$ cat /proc/self/maps | grep projects
+
+```
+
+| Segment | Resource | Function | Stack | Access |
+| --- | --- | --- | --- | --- |
+| `0x4A1` | **RadishDB** | Crash-safe storage engine | `C`, `mmap`, `POSIX` | [Read →](https://github.com/pie-314/radishdb) |
+| `0x7B2` | **TRX** | Terminal-native package manager | `Rust`, `Ratatui` | [Read →](https://github.com/pie-314/trx) |
+| `0x9C3` | **Neural-Net** | ML logic from scratch (No Frameworks) | `C` | [Read →](https://github.com/pie-314/neural-network-from-scratch-c) |
+
+<br />
+
+---
+
+## 📚 Shared Libraries (Knowledge)
+
+```console
+pi@dev-machine:~$ ls -la /usr/share/doc
+
+```
+
+* 📄 **[Crash-Safe Database Engine in C]** — Deep dive into WAL and persistence. [Read →](https://pie.hashnode.dev/how-i-built-a-crash-safe-database-engine-in-c)
+* 📄 **[General Relativity for Kids]** — Mental models for complex physics. [Read →](https://physicsforkidss.blogspot.com/2024/10/general-relativity-for-kids-to.html)
+
+<br />
+
+---
+
+## 🛠️ System Capabilities (Skills)
+
+```console
+pi@dev-machine:~$ sysctl -a | grep skill_level
+
+```
+
+### Languages
+
+<p align="left">
+<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" /></a>
+<a href="https://www.nasm.us/"><img src="https://img.shields.io/badge/x86_64-ASSEMBLY-red?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x86_64 Assembly" /></a>
+</p>
+<br />
+
+### Core Systems
+
+<p align="left">
+<a href="https://github.com/pie-314/radishdb"><img src="https://img.shields.io/badge/Storage-Engines-orange?style=for-the-badge" alt="Storage Engines" /></a>
+<a href="https://en.wikipedia.org/wiki/Memory_management"><img src="https://img.shields.io/badge/Memory-Management-blueviolet?style=for-the-badge" alt="Memory Management" /></a>
+<a href="https://en.wikipedia.org/wiki/File_system"><img src="https://img.shields.io/badge/File-Systems-lightgrey?style=for-the-badge" alt="File Systems" /></a>
+<a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Internals" /></a>
+</p>
+
+<br />
+
+### Tooling
+
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://www.sourceware.org/gdb/"><img src="https://img.shields.io/badge/GDB-blue?style=for-the-badge" alt="GDB" /></a>
+<a href="https://valgrind.org/"><img src="https://img.shields.io/badge/Valgrind-green?style=for-the-badge" alt="Valgrind" /></a>
+<a href="https://perf.wiki.kernel.org/"><img src="https://img.shields.io/badge/Perf-red?style=for-the-badge" alt="Perf" /></a>
+</p>
+
+<br />
+
+---
+
+## 📡 Network Interfaces (Socials)
+
+```console
+pi@dev-machine:~$ ip addr show
+
+```
+
+* **eth0 (GitHub):** [pie-314](https://github.com/pie-314)
+* **wlan0 (LinkedIn):** [aadarsh-chandra](https://linkedin.com/in/aadarsh-chandra)
+* **tun0 (X / Twitter):** [@pie314n](https://x.com/pie314n)
+* **veth (Discord):** [mr.pi8219](https://discord.com/channels/@mr.pi8219)
+* **lo (Blog):** [pie.hashnode.dev](https://pie.hashnode.dev)
+* **kaggle0:** [aadarshchandra1](https://www.kaggle.com/aadarshchandra1)
+
+<br />
+
+---
+
+```rust
+fn main() {
+    let mut life = Developer::new("Aadarsh");
+    loop {
+        life.learn();
+        life.build();
+        life.understand();
+    }
+}
+
+```
+
+<br />
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://img.shields.io/badge/Status-Kernel_Stable-0A84FF" alt="Status Kernel Stable" />
+<img src="https://img.shields.io/badge/Database-ACID_Compliant-success" alt="Database ACID Compliant" />
+<br />
+<br />
+<a href="#top">REBOOT SYSTEM ↑</a>
 </p>
-
-<!-- About Me Section -->
-<h2 align="left">👨‍💻 About Me</h2>
-<p align="left">
-I just enjoy learning—whether it's programming, physics, math, or something totally new.
-</p>
-
-<!-- Current Status -->
-<h2 align="left">🌟 Current Status</h2>
-<p align="left">
-  - 📚 Learning: C<br>
-  - 📝 Latest Blog: <a href="https://physicsforkidss.blogspot.com/2024/10/general-relativity-for-kids-to.html" target="_blank">General Relativity for Kids</a><br>
-</p>
-
-<!-- Featured Projects -->
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ShahbazCoder1/nearbymedi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShahbazCoder1&repo=nearbymedi&theme=dark" width="400" alt="NearbyMedi Project Pin"/>
-  </a>
-  <a href="https://github.com/AyushiGtl/WayFlo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiGtl&repo=WayFlo&theme=dark" width="400" alt="WayFlo Project Pin"/>
-  </a>
-  <a href="https://github.com/pie-314/aptos-hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pie-314&repo=aptos-hackathon&theme=dark" width="400" alt="Aptos Hackathon Project Pin"/>
-  </a>
-<a href="https://github.com/pie-314/trx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pie-314&repo=trx&theme=dark" width="400" alt="TRX Pin"/>
-  </a>
-</div>
-<!-- Looking For Section -->
-<h2 align="left">👀 I'm interested in</h2>
-<p align="left">
-  - 🤝 Collaborations<br>
-  - 📊 Any Opportunities<br>
-  - 🎯 Open Source Contributions
-</p>
-
-<!-- Goals Section -->
-<h2 align="left">🎯 2026 Goals</h2>
-<p align="left">
-<!--  - Master Machine Learning Fundamentals<br>-->
-  - Contribute to Open Source Projects<br>
-  - Write More Educational Content<br>
-  - Master C
-</p>
-
-<!-- Favorite Quote -->
-<h2 align="left">💭 Favorite Quote</h2>
-<p align="left">
-  <i>"The more I learn, the more I realize how much I don't know."</i> - Albert Einstein
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pie-314&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-<!-- Languages and Tools with improved styling -->
-<h2 align="left">🚀 Languages and Tools</h2>
-<div align="center">
-  
-  <!-- Programming Languages -->
-  <h3>Programming Languages</h3>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-line.svg"
-       alt="rust"
-       width="40"
-       height="40"
-       style="background-color:#fff; border:1px solid #ccc; border-radius:8px; padding:4px;" />
-    </a>
-
-  </p>
-
-  <!-- Frameworks and Libraries -->
-  <h3>Frameworks & Libraries</h3>
-  <p>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-  </p>
-
-  <!-- Cloud & Services -->
-  <h3>Cloud & Services</h3>
-  <p>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-    </a>
-  </p>
-
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <p>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-  </p>
-
-  <!-- Tools and Technologies -->
-  <h3>Tools & Technologies</h3>
-  <p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-    </a>
-  </p>
-
-<!-- Connect with me section -->
-<h2 align="left">⚡️ Connect with me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/aadarsh-chandra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://discord.com/users/mr.pi8219" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-  </a>
-  <a href="https://instagram.com/aadarsh.json" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-  <a href="https://www.kaggle.com/aadarshchandra1" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
-  </a>
-  <a href="https://x.com/pie314n" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a>
-
-</p> 
