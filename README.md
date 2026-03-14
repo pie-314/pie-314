@@ -1,4 +1,3 @@
-
 <div id="top"></div>
 
 <p align="center">
@@ -13,18 +12,18 @@
 ```console
 pi@dev-machine:~$ neofetch --minimal
 
-```
-pi@dev-machine:~$ neofetch --minimal
+       _______      USER   : aadarsh
+      |.-----.|     OS     : Arch Linux / Bare Metal
+      || core||     KERNEL : First-Principles-x86_64
+      ||__***||     UPTIME : 100% (fueled by caffeine)
+      '-------'     ROLE   : I build the core and everything on top of it.
+     /         \    STACK  : C, Rust, Python, x86 ASM
+    />*|*****|*<\   GOAL   : "Don't just use abstractions. Build them."
 
-       _______      USER   : aadarsh
-      |.-----.|     OS     : Arch Linux / Bare Metal
-      || core||     KERNEL : First-Principles-x86_64
-      ||__***||     UPTIME : 100% (fueled by caffeine)
-      '-------'     ROLE   : I build the core and everything on top of it.
-     /         \    STACK  : C, Rust, Python, x86 ASM
-    />*|*****|*<\   GOAL   : "Don't just use abstractions. Build them."
+```
 
 > Full-stack, from hardware to abstraction.
+
 <br />
 
 ---
@@ -53,8 +52,8 @@ pi@dev-machine:~$ ls -la /usr/share/doc
 
 ```
 
-* 📄 **[Crash-Safe Database Engine in C]** — Deep dive into WAL and persistence. [Read →](https://pie.hashnode.dev/how-i-built-a-crash-safe-database-engine-in-c)
-* 📄 **[General Relativity for Kids]** — Mental models for complex physics. [Read →](https://physicsforkidss.blogspot.com/2024/10/general-relativity-for-kids-to.html)
+* 📄 **[Crash-Safe Database Engine in C]** — Deep dive into WAL and persistence. [Read →](https://pidev.tech/blog/how-i-built-a-crash-safe-database-engine-in-c)
+* 📄 **[Neural Network from Scratch]** — Implementing backpropagation and matrices in C. [Read →](https://pidev.tech/blog/building-a-neural-network-from-scratch-in-c)
 
 <br />
 
@@ -114,7 +113,7 @@ pi@dev-machine:~$ ip addr show
 * **wlan0 (LinkedIn):** [aadarsh-chandra](https://linkedin.com/in/aadarsh-chandra)
 * **tun0 (X / Twitter):** [@pie314n](https://x.com/pie314n)
 * **veth (Discord):** [mr.pi8219](https://discord.com/channels/@mr.pi8219)
-* **lo (Blog):** [pie.hashnode.dev](https://pie.hashnode.dev)
+* **lo (Blog):** [pidev.tech](https://pidev.tech)
 * **kaggle0:** [aadarshchandra1](https://www.kaggle.com/aadarshchandra1)
 
 <br />
@@ -123,12 +122,12 @@ pi@dev-machine:~$ ip addr show
 
 ```rust
 fn main() {
-    let mut life = Developer::new("Aadarsh");
-    loop {
-        life.learn();
-        life.build();
-        life.understand();
-    }
+    let mut life = Developer::new("Aadarsh");
+    loop {
+        life.learn();
+        life.build();
+        life.understand();
+    }
 }
 
 ```
@@ -142,3 +141,4 @@ fn main() {
 <br />
 <a href="#top">REBOOT SYSTEM ↑</a>
 </p>
+
